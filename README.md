@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EsurgeG
 - 👀 I’m interested in becoming a good coder
-- 🌱 I’m currently ready ton lear.n software engineering
-- 💞️ I’m looking to collaborate on anyone who ahead 
+- 🌱 I’m currently ready to learn how to build andriod apps
+- 💞️ I’m looking to collaborate on anyone who is willing to teach me step by step 
 - 📫 reach me on this mail: esurge11@gmail.com
 
 <!---
